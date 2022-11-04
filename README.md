@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Matthew Mallory
-- 👀 I’m interested in React,HTML,CSS, NODEJS, .NET, TypeScript
-- 🌱 I’m currently learning Dapps
-- 💞️ I’m looking to collaborate on NODEJS,REACT, .nET, TypeScript
+- 👀 I’m interested in React,HTML,CSS, NODEJS, .NET, TypeScript, Go, Dapps
+- 🌱 I’m currently learning Go
+- 💞️ I’m looking to collaborate on NODEJS,REACT, .NET, TypeScript
 - 📫 How to reach me MMALLORY56@GMAIL.COM
 
 <!---
